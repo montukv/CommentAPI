@@ -93,7 +93,7 @@ Follow the below instruction to run the project in your system
 ## Usage
 
 Home Page
-[home]
+![home](https://github.com/montukv/CommentAPI/blob/main/Screenshots/home.PNG)
 [btc]
 [comment1]
 [comment2]

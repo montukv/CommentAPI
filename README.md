@@ -93,13 +93,12 @@ Follow the below instruction to run the project in your system
 ## Usage
 
 Home Page
-![home](https://github.com/montukv/CommentAPI/blob/main/Screenshots/home.PNG)
-[btc]
-[comment1]
-[comment2]
-[comment3]
-[com4]
-[com5]
+(https://github.com/montukv/CommentAPI/blob/main/Screenshots/home.PNG)
+(https://github.com/montukv/CommentAPI/blob/main/Screenshots/btc.PNG)
+(https://github.com/montukv/CommentAPI/blob/main/Screenshots/btcreply.PNG)
+(https://github.com/montukv/CommentAPI/blob/main/Screenshots/getall.PNG)
+(https://github.com/montukv/CommentAPI/blob/main/Screenshots/parent%20comment.PNG)
+(https://github.com/montukv/CommentAPI/blob/main/Screenshots/child%20comment.PNG)
 
 
 <!-- LICENSE -->

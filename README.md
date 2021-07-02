@@ -93,12 +93,12 @@ Follow the below instruction to run the project in your system
 ## Usage
 
 Home Page
-(https://github.com/montukv/CommentAPI/blob/main/Screenshots/home.PNG)
-(https://github.com/montukv/CommentAPI/blob/main/Screenshots/btc.PNG)
-(https://github.com/montukv/CommentAPI/blob/main/Screenshots/btcreply.PNG)
-(https://github.com/montukv/CommentAPI/blob/main/Screenshots/getall.PNG)
-(https://github.com/montukv/CommentAPI/blob/main/Screenshots/parent%20comment.PNG)
-(https://github.com/montukv/CommentAPI/blob/main/Screenshots/child%20comment.PNG)
+![home](https://github.com/montukv/CommentAPI/blob/main/Screenshots/home.PNG)
+![discussion form](https://github.com/montukv/CommentAPI/blob/main/Screenshots/btc.PNG)
+![user can reply to other](https://github.com/montukv/CommentAPI/blob/main/Screenshots/btcreply.PNG)
+![API call to get comment list ](https://github.com/montukv/CommentAPI/blob/main/Screenshots/getall.PNG)
+![Parent comment in database with parent field as null](https://github.com/montukv/CommentAPI/blob/main/Screenshots/parent%20comment.PNG)
+![Child comment in database as parent field pointing to parent comment](https://github.com/montukv/CommentAPI/blob/main/Screenshots/child%20comment.PNG)
 
 
 <!-- LICENSE -->

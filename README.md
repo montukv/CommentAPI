@@ -43,8 +43,8 @@ This is a threaded comment application .As per codingal backend assesment task r
 
 I have made a django webapp for implementing threaded comment functionality . I have choosen a theam of open form discussion and implemented accordingly .The user can see the multiple open discussion form where people can comment their opnion and discuss things with the world . 
 
-User read everyones comments and login to write or reply to others comments .
-Admin candelete any single or whole thread of comments by deleting the parent comment or by deleting the form/page itself.
+User can read everyones comments and login to write comment or reply to others comments .
+Admin can delete any single or whole thread of comments by deleting the parent comment or by deleting the form/page itself.Admin can delete all comment by deleting the page itself. Admin can also edit comments .
 
 ### Built With
 

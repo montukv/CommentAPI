@@ -74,7 +74,7 @@ Follow the below instruction to run the project in your system
    ```
 3. Install  packages
    ```sh
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 4. configure database
    ```JS

@@ -90,6 +90,8 @@ Follow the below instruction to run the project in your system
    ID :- montu
    Pass :- 1234
    ```
+   
+   NOTE:- User can't comment if now logged in but can read the comments .
 7. Now you can comment on pages
    Go to '/'
 

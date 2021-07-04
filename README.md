@@ -85,8 +85,13 @@ Follow the below instruction to run the project in your system
    ```sh
    python manage.py runserver
    ```
-
-
+6. Login to admin '/admin'
+   ```sh
+   ID :- montu
+   Pass :- 1234
+   ```
+7. Now you can comment on pages
+   Go to '/'
 
 <!-- USAGE EXAMPLES -->
 ## Usage

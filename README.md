@@ -115,7 +115,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Name -Montukeshwar Vaishnaw - Montukeshwar@gmail.com
+Name-Montukeshwar Vaishnaw - Montukeshwar@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

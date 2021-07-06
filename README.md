@@ -50,10 +50,10 @@ Admin can delete any single or whole thread of comments by deleting the parent c
 
 These are the tech stack i have used to build this 
 * [Bootstrap](https://getbootstrap.com)
-* [Django] (https://www.djangoproject.com/)
-* [Python] (https://www.python.org/)
-* [Django Rest Framework] (https://www.django-rest-framework.org/)
-* [Django-ORM] (https://tutorial.djangogirls.org/en/django_orm/)
+* [Django](https://www.djangoproject.com/)
+* [Python](https://www.python.org/)
+* [Django Rest Framework](https://www.django-rest-framework.org/)
+* [Django-ORM](https://tutorial.djangogirls.org/en/django_orm/)
 
 
 
